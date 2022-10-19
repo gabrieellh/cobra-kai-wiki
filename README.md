@@ -27,4 +27,6 @@ Sobre o Projeto</h2>
 <a href="https://instagram.com/gabrieelh_">Meu instagram</a>
 </p>
 
-## 🚀 Project made by gabrieellh
+## 🚀 Made by
+
+Project made by gabrieellh
