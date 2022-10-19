@@ -1,23 +1,30 @@
-<style>
-    h1 {
-        text-align: center;
-        color: red;
-        font-family:Verdana, Geneva, Tahoma, sans-serif;
-    }
-
-    p {
-        text-align: center;
-    }
-</style>
 
 
 
-<h1>Cobra Kai Wiki</h1>
-<p>Informações sobre a série</p>
+<h1 align="center">Cobra Kai Wiki</h1>
+<p align="center">Projeto feito com HTML e CSS</p>
 
-<p> 
+<p align="center"> 
 
-<h2>Projeto</h2>
+<h2 align="center">
+Sobre o Projeto</h2>
 
+<p>Cobra Kai Wiki, é baseado em uma série que gosto muito, essa ideia veio na minha cabeça e resolvi tira-lá do papel.</p>
+
+## 💻 Tecnologias
+
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
+## 📢 Onde acessar
+
+<a href="https://cobra-kai-wiki.vercel.app">Acesse Aqui</a>
+
+## ✨ Onde me encontrar
+<p>
+<a href="https://instagram.com/gabrieelh_">Meu instagram</a>
 </p>
 
+## 🚀 Project made by gabrieellh
