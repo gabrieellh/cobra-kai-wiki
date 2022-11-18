@@ -46,10 +46,13 @@ a {
 ul {
     list-style: none;
     margin-top: 32px;  
+    position: absolute;
+    align-content: center;
     background-color: white;  
     border-radius: 16px;
     display: flex;
     flex-wrap: wrap;
+    margin-left: 11%;
 
 }
 
